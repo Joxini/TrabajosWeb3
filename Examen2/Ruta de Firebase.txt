@@ -1,0 +1,7 @@
+https://php03-1e5bc.firebaseapp.com/
+
+
+
+Profe y te puse una imagen, del firestore, no se por que dura tanto en cargar. asi que si los datos no te cargan puede ser por eso.
+
+A y profe ya los datos estan ingresados.
